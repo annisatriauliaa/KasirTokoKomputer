@@ -8,14 +8,14 @@ package com.unri.pbo;
  *
  * @author User
  */
-public class FormPelangganSupplier extends javax.swing.JFrame {
+public class FormPelanggan extends javax.swing.JFrame {
     
-    private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(FormPelangganSupplier.class.getName());
+    private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(FormPelanggan.class.getName());
 
     /**
      * Creates new form FormPelangganSupplier
      */
-    public FormPelangganSupplier() {
+    public FormPelanggan() {
         initComponents();
     }
 
@@ -66,7 +66,7 @@ public class FormPelangganSupplier extends javax.swing.JFrame {
         //</editor-fold>
 
         /* Create and display the form */
-        java.awt.EventQueue.invokeLater(() -> new FormPelangganSupplier().setVisible(true));
+        java.awt.EventQueue.invokeLater(() -> new FormPelanggan().setVisible(true));
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
