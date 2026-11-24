@@ -8,6 +8,6 @@ package com.unri.pbo;
  *
  * @author User
  */
-public class FormLogin {
+public class FormKasir {
     
 }
